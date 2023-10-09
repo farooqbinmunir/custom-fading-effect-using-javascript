@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 /***
 	
-	It's Farooq Bin Munir - who write code for the public to use
+	I write code, let's use it together
 
 ***/
 
@@ -11,8 +11,8 @@ ________________________________________________________________________________
 /%%%%%%%%%%%%%%%		Read Me!	%%%%%%%%%%%%%%%/
 
 1. Extract the files
-2. Open 'upcoming-events.html' file in you browser
-3. Got it, you'll see the upcoming event countdown timer working
+2. Open 'index.html' file in you browser
+3. Got it, you'll see the the fading box working automatically
 4. Now you can use it, where there is need
 
 
